@@ -1,0 +1,11 @@
+Twisty:blue
+ifnotwall 4
+reverse
+go 1
+infect
+hop
+twist
+twist
+twist
+twist
+go 1

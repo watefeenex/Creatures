@@ -1,0 +1,7 @@
+15
+1000
+Twisty 4 4 East
+Patrol 4 5 North
+Patrol 4 1 West
+Patrol 7 7 South
+Twisty 10 10 East

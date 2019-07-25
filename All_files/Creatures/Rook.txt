@@ -1,0 +1,8 @@
+Rook:orange
+ifnotwall 4
+reverse
+go 1
+hop
+go 1
+
+This creature bounces between the walls

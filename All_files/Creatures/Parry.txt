@@ -1,0 +1,5 @@
+Parry:grey
+reverse
+go 1
+
+This creature doesn't move, it only resides in one cell and keep rotating 180 degrees.

@@ -1,0 +1,25 @@
+Roomber:purple
+ifnotwall 23
+twist
+ifnotwall 10
+reverse
+hop
+twist
+twist
+twist
+go 1
+hop
+twist
+ifnotwall 21
+twist
+twist
+twist
+hop
+twist
+twist
+twist
+go 1
+hop
+go 12
+hop
+go 1

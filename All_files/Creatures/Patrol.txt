@@ -1,0 +1,9 @@
+Patrol:green
+ifnotwall 6
+twist
+hop
+twist
+go 1
+infect
+hop
+go 1
